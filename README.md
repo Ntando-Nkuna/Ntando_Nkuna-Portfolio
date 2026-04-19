@@ -1,95 +1,110 @@
 ## Hi there, I'm Ntando Nkuna 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analytics+%7C+Data+Engineering;Python+%26+SQL+Driven+Insights;Building+Interactive+Data+Applications;Aspiring+Data-Driven+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Data+Analyst+%7C+Data+Engineering+Foundations;SQL+%7C+Python+%7C+Machine+Learning;Building+Data-Driven+Applications;Learning+Mobile+System+Design" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+---
+
+## 🚀 About Me
+
+I am a **3rd Year BCom Information Systems student** and a **skilled Data Analyst** with strong **data engineering foundations**.
+
+I work confidently across the **full data lifecycle** — from **data collection and modeling** to **analysis, machine learning, and deployment**. I have experience working with **structured, semi-structured, and unstructured data**, and I design analytical workflows that are both scalable and insight-driven.
+
+My primary database environments are **SQL Server** and **DuckDB**, which I use extensively for data modeling, querying, and analytical processing.
+
+Beyond analytics, I build **interactive data-driven web applications using Streamlit**, enabling end users to explore insights through clean and intuitive interfaces.
+
+In parallel, I am **actively learning mobile application system design**, with the goal of developing robust, data-powered mobile solutions.
 
 ---
 
-## 🚀 About Me  
+## 🧠 Core Focus Areas
 
-I’m a **3rd Year BCom Information Systems student** specializing in **Data Analytics and Data Engineering**, with a growing focus on **data-driven application and mobile development**.
+### 📊 Data Analytics & Data Engineering (Primary)
+- Data collection, cleaning, and preprocessing  
+- Data modeling and relational schema design  
+- Working with structured, semi-structured, and unstructured data  
+- Advanced SQL querying and analytical workflows  
+- Machine learning: model creation, fine-tuning, and deployment  
+- Data visualization and insight communication  
+- Building analytical pipelines and reusable data components  
 
-My core strength lies in working with **Python and SQL** to clean, analyze, and transform data into actionable insights. I have hands-on experience building **interactive data applications using Streamlit**, enabling users to explore data through intuitive, user-friendly interfaces.
-
-Alongside data, I am actively expanding my skills in **frontend and mobile development**, aiming to build applications that combine strong data foundations with effective user experiences.
-
----
-
-## 🔭 What I'm Currently Working On  
-
-- **Data Analytics Projects:** Python- and SQL-based analysis projects involving data cleaning, EDA, and visualization  
-- **Streamlit Applications:** Developing interactive dashboards and data exploration tools  
-- **Mobile Development Foundations:** Building frontend and mobile development skills with JavaScript and React  
+**Databases:** SQL Server, DuckDB  
 
 ---
 
-## 🌱 Currently Learning  
-
-- Data engineering concepts (data pipelines, structured querying, scalable data handling)  
-- Advanced data visualization and storytelling techniques  
-- Mobile and frontend development with React  
-- UI/UX design principles using Figma  
-
----
-
-## 🛠️ Technical Skillset  
-
-#### 📊 Data Analysis & Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-Strong-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Strong-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Experienced-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-Experienced-F2C811?style=flat&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-</p>
-
-#### 📈 Data Visualization & Insights
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-Experienced-11557C?style=flat">
-  <img src="https://img.shields.io/badge/Seaborn-Experienced-4ECDC4?style=flat">
-  <img src="https://img.shields.io/badge/EDA-Strong-96CEB4?style=flat">
-</p>
-
-#### 📱 Software & Mobile Development (Growing Focus)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Foundational-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX-0ACF83?style=flat&logo=figma&logoColor=white">
-</p>
+### 🤖 Machine Learning & Applied Analytics
+- Developing and fine-tuning ML models  
+- Feature engineering and model evaluation  
+- Applying ML to real-world analytical problems  
+- Deploying models within analytical and web-based applications  
 
 ---
 
-## 📂 Featured Project  
+### 🌐 Data Applications & Tooling
+- Developing interactive web applications using **Streamlit**  
+- Translating analytical outputs into usable interfaces  
+- Version control and collaboration using **Git & GitHub**  
+
+---
+
+### 📱 Mobile Application Development (Learning Focus)
+- Studying **system design principles for mobile applications**  
+- Cross-platform development using JavaScript-based frameworks  
+- Designing user interfaces and workflows with **Figma**  
+
+**Tools & Technologies:**
+- JavaScript  
+- React Native  
+- PhoneGap  
+- Ionic  
+- NativeScript  
+
+> Mobile development is a focused growth area, aimed at combining strong data backends with effective mobile user experiences.
+
+---
+
+## 🛠️ Technical Skillset
+
+#### Data & Analytics
+- **Languages:** Python, SQL  
+- **Databases:** SQL Server, DuckDB  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **BI & Visualization:** Power BI  
+- **Data Apps:** Streamlit  
+
+#### Machine Learning
+- Model development, tuning, and deployment  
+- Applied ML workflows for analytics  
+
+#### Software & Mobile Development
+- **JavaScript**
+- **React Native**
+- **Figma**
+
+#### Tooling
+- Git & GitHub (version control, collaboration, project management)
+
+---
+
+## 📂 Featured Project
 
 ### 📌 Student Enrollment Data Cleaning & Analysis  
 🔗 https://github.com/No1Deku/student-enrollment-data-cleaning  
 
-- Cleaned and transformed raw student enrollment data using **Python and Pandas**  
-- Conducted exploratory data analysis to uncover trends and inconsistencies  
-- Applied SQL-style querying logic for structured data analysis  
-- Visualized insights to support data-driven interpretation  
-
-> Demonstrates an **end-to-end data workflow**: raw data → cleaned dataset → analysis → insights.
+- Designed a complete data cleaning and analysis workflow using Python and SQL  
+- Modeled and queried structured datasets for analytical use  
+- Performed exploratory data analysis and visualization  
+- Delivered insights through reproducible and well-documented code  
 
 ---
 
-## 🎯 Current Focus  
-
-- Strengthening data analytics and data engineering workflows  
-- Building more interactive, user-facing data applications  
-- Expanding mobile development skills to complement data expertise  
-- Applying data solutions to real-world business and system challenges  
+## 🎯 Current Focus
+- Strengthening data engineering and analytics pipelines  
+- Applying machine learning to analytical use cases  
+- Building more data-driven web applications with Streamlit  
+- Learning mobile system design to extend analytics into mobile platforms  
 
 ---
-
-⭐ *If you’re interested in data-driven problem solving, analytics, or building applications powered by data, feel free to connect.*
