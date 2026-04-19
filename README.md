@@ -19,54 +19,35 @@
 
 I am a **3rd Year BCom Information Systems student** and a **Data Analyst with strong data engineering foundations**, capable of working across the full data lifecycle.
 
-I design and execute **end-to-end data workflows** — from data collection and modeling to advanced analysis, machine learning, and delivery. I work confidently with **structured, semi-structured, and unstructured data**, and I build analytical solutions that are both scalable and insight-driven.
+I design and execute **end-to-end data workflows** — from data collection and modeling to advanced analysis, machine learning, and delivery. I work confidently with **structured, semi-structured, and unstructured data**, and I focus on building analytical solutions that are scalable, reproducible, and decision-oriented.
 
-My primary database environments are **DuckDB** and **SQL Server**, which I use for data modeling, analytical querying, and performance-oriented analysis.
+My primary database environments are **DuckDB** and **SQL Server**, which I use for analytical querying, data modeling, and performance-focused analysis.
 
-I also develop **interactive data-driven web applications using Streamlit**, translating analytical outputs into tools that support exploration and decision-making. In parallel, I build **mobile and frontend applications** to extend data products into user-facing experiences.
-
----
-
-## 🔭 What I'm Currently Working On  
-
-- **Data Analytics & Engineering Projects:** End-to-end analytical workflows using Python, SQL, DuckDB, and SQL Server  
-- **Machine Learning Applications:** Developing, fine-tuning, and deploying models within analytical pipelines  
-- **Data Applications:** Building interactive Streamlit applications for data exploration  
-- **Mobile & Frontend Development:** Creating cross-platform interfaces using JavaScript and React Native  
+I also build **interactive data-driven applications using Streamlit**, transforming analytical outputs into user-facing tools. In parallel, I develop **mobile and frontend applications** to extend data products into practical, real-world use cases.
 
 ---
 
-## 🛠️ Technical Skillset  
+## 🧠 Skills Overview  
 
-#### 📊 Data Analytics & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-Strong-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Strong-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/DuckDB-Experienced-FFF000?style=flat">
-  <img src="https://img.shields.io/badge/SQL%20Server-Experienced-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-Experienced-150458?style=flat&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-Experienced-3F4F75?style=flat&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Experienced-F37626?style=flat&logo=jupyter&logoColor=white">
-</p>
+### Data Analytics & Data Engineering  
+I work across the full analytics pipeline, including **data ingestion, cleaning, transformation, modeling, and analysis**. I am comfortable handling **structured, semi-structured, and unstructured data**, and I design relational data models that support efficient analytical querying.
 
-#### 🤖 Machine Learning & Analytics
-<p>
-  <img src="https://img.shields.io/badge/ML%20Modeling-Applied-96CEB4?style=flat">
-  <img src="https://img.shields.io/badge/Model%20Deployment-Experienced-45B7D1?style=flat">
-</p>
+My analytical work is primarily performed using **Python and SQL**, with **DuckDB and SQL Server** as my main database environments. I conduct exploratory and advanced analysis in **Jupyter Notebooks**, leveraging **Pandas** for data manipulation and **Plotly** for clear, interactive visualizations that communicate insights effectively.
 
-#### 🌐 Data Applications & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Experienced-181717?style=flat&logo=github&logoColor=white">
-</p>
+---
 
-#### 📱 Frontend & Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React%20Native-Developing-61DAFB?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX-0ACF83?style=flat&logo=figma&logoColor=white">
-</p>
+### Machine Learning  
+I have experience developing **machine learning models** for analytical use cases, including **feature engineering, model training, fine-tuning, evaluation, and deployment**. My focus is on applying machine learning to support data-driven decision-making rather than purely theoretical modeling.
+
+---
+
+### Data Applications & Engineering Tooling  
+I develop **interactive web applications using Streamlit**, allowing stakeholders to explore data, insights, and model outputs through intuitive interfaces. I use **Git and GitHub** for version control, collaboration, and maintaining clean, well-documented analytical codebases.
+
+---
+
+### Mobile & Frontend Development  
+I build **cross-platform mobile and frontend interfaces** using **JavaScript and React Native**, with **Figma** as my primary tool for designing user interfaces and application flows. My goal is to combine strong data backends with clean, usable frontends that deliver insights beyond static reports.
 
 ---
 
@@ -75,10 +56,11 @@ I also develop **interactive data-driven web applications using Streamlit**, tra
 ### 📌 Student Enrollment Data Cleaning & Analysis  
 🔗 https://github.com/No1Deku/student-enrollment-data-cleaning  
 
-- Designed and implemented a complete data cleaning and analysis workflow using **Python and SQL**  
-- Modeled and queried datasets using **DuckDB** for analytical efficiency  
-- Performed exploratory analysis and built interactive visualizations  
-- Delivered insights through reproducible, well-documented code  
+This project demonstrates my ability to:
+- Design and implement an **end-to-end data analysis workflow**
+- Model and query data efficiently using **DuckDB and SQL**
+- Perform exploratory analysis and visualization
+- Deliver insights through reproducible, well-structured code
 
 ---
 
